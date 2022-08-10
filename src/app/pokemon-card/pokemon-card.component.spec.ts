@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PokemonCardComponent } from './pokemon-card.component';
+import PokemonCardComponent from './pokemon-card.component';
 
 describe('PokemonCardComponent', () => {
   let component: PokemonCardComponent;
